@@ -14,7 +14,7 @@ certifi==2021.5.30
 cffi
 chardet
 click==8.0.1
-conda==4.9.2
+conda
 conda-package-handling
 cryptography
 dash==2.0.0
