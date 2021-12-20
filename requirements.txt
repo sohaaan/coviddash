@@ -15,7 +15,6 @@ cffi
 chardet
 click==8.0.1
 conda
-conda-package-handling
 cryptography
 dash==2.0.0
 dash-core-components==2.0.0
