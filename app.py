@@ -39,6 +39,7 @@ dfv= pd.read_csv('vaccine_bd.csv')
 
 # Create a dash application
 app = dash.Dash(__name__)
+server= app.server
 #server= app.server
 # Get the layout of the application and adjust it.
 # Create an outer division using html.Div and add title to the dashboard using html.H1 component
